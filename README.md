@@ -17,7 +17,7 @@ Tuned hyperparameters using GridSearchCV for performance optimization.
 Designed an interpretable model using Feature Importance for explainability.
 
 🛠️ Tech Stack
-Python (pandas, NumPy, scikit-learn, matplotlib, seaborn, XGBoost, SHAP)
+Python (pandas, NumPy, scikit-learn, scipy, statsmodels, XGBoost, LabelEncoding, OneHotCoding)
 
 Jupyter Notebook for analysis and visualization
 
